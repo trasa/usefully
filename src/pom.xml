@@ -107,6 +107,8 @@
     <modules>
         <module>util</module>
         <module>zookeeper</module>
+        <module>jersey</module>
+        <module>messaging</module>
     </modules>
 
 
