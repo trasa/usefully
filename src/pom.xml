@@ -6,7 +6,7 @@
 
     <groupId>com.meancat.usefully</groupId>
     <artifactId>usefully-parent</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>Usefully Parent</name>
     <description>Collectively Useful Things</description>
     <url>https://github.com/trasa/usefully</url>
