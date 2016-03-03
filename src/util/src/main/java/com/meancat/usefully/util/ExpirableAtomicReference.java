@@ -29,6 +29,7 @@ public class ExpirableAtomicReference<T> implements Serializable {
      * @param time how long til expiration
      * @param unit units of time
      * @param refreshAfterExpiration refresh after?
+     * @param initialValue the initial value of the reference
      * @param listener what gets called on cleanup
      */
     public ExpirableAtomicReference(long time, TimeUnit unit, boolean refreshAfterExpiration, T initialValue, ExpirationListener<T> listener) {

@@ -63,7 +63,7 @@ public class GzipUtil {
      *
      * @param data to be examined and, maybe, gunzipped
      * @return data, or unzipped data
-     * @throws IOException
+     * @throws IOException on fail
      */
     public static byte[] processCompressed(byte[] data) throws IOException {
         return isGzipped(data) ? decompress(data) : data;

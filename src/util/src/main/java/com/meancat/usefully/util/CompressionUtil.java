@@ -21,7 +21,7 @@ public final class CompressionUtil {
      *
      * @param input bytes to compress
      * @return compressed byte array
-     * @throws IOException
+     * @throws IOException IOException
      */
     public static byte[] compressByteArray(byte[] input) throws IOException {
         ByteArrayInputStream bais = new ByteArrayInputStream(input);
@@ -42,7 +42,7 @@ public final class CompressionUtil {
      *
      * @param input compressed byte array
      * @return decompressed bytes
-     * @throws IOException
+     * @throws IOException on fail
      */
     public static byte[] decompressByteArray(byte[] input) throws IOException {
         ByteArrayInputStream bais = new ByteArrayInputStream(input);
