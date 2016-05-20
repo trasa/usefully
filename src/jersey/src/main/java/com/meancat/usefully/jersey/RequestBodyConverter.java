@@ -2,7 +2,8 @@ package com.meancat.usefully.jersey;
 
 import com.codahale.metrics.MetricRegistry;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.meancat.usefully.messaging.Request;
+import com.meancat.usefully.messaging.messages.Request;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

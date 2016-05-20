@@ -1,4 +1,4 @@
-package com.meancat.usefully.messaging;
+package com.meancat.usefully.messaging.messages;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
