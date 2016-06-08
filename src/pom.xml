@@ -110,6 +110,7 @@
         <module>zookeeper</module>
         <module>jersey</module>
         <module>messaging</module>
+        <module>redis</module>
     </modules>
 
 
