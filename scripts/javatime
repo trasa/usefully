@@ -1,0 +1,3 @@
+#!/bin/bash
+java -jar javatime-0.0.2-SNAPSHOT.jar
+

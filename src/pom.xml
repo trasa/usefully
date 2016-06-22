@@ -111,6 +111,7 @@
         <module>jersey</module>
         <module>messaging</module>
         <module>redis</module>
+        <module>javatime</module>
     </modules>
 
 
