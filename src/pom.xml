@@ -112,6 +112,7 @@
         <module>messaging</module>
         <module>redis</module>
         <module>javatime</module>
+        <module>iap</module>
     </modules>
 
 
