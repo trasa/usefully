@@ -1,10 +1,12 @@
-package com.meancat.usefully.iap;
+package com.meancat.usefully.iap.apple;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.meancat.usefully.iap.apple.IapErrors;
 
 public class IapErrorsTest {
     private IapErrors errors;

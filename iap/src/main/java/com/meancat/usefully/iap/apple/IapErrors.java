@@ -1,4 +1,4 @@
-package com.meancat.usefully.iap;
+package com.meancat.usefully.iap.apple;
 
 import java.util.Map;
 

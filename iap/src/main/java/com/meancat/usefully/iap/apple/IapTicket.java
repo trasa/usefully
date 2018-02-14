@@ -1,5 +1,5 @@
 
-package com.meancat.usefully.iap;
+package com.meancat.usefully.iap.apple;
 
 import static com.google.common.collect.Maps.newHashMap;
 
